@@ -1,7 +1,7 @@
 <!-- 
 ![Kryptöñ](https://github.com/palashranvir/palashranvir/raw/master/custom%20%E2%80%93%201.png "Kryptöñ")
 -->
-# Kryptöñ 👨🏻‍💻 #Google Crtified Data Analyst | WebDeveloper
+# Kryptöñ 👨🏻‍💻 #Google Certified Data Analyst | WebDeveloper
 
 <!--
 **palashranvir/palashranvir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
