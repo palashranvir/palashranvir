@@ -1,10 +1,10 @@
 <!-- 
-![Kryptöñ](https://github.com/madhusudanbabar/madhusudanbabar/raw/master/custom%20%E2%80%93%201.png "Kryptöñ")
+![Kryptöñ](https://github.com/palashranvir/palashranvir/raw/master/custom%20%E2%80%93%201.png "Kryptöñ")
 -->
-# Kryptöñ 👨🏻‍💻 #WebDeveloper
+# Kryptöñ 👨🏻‍💻 #Google Crtified Data Analyst | WebDeveloper
 
 <!--
-**madhusudanbabar/madhusudanbabar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**palashranvir/palashranvir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 [![Twitter Badge](https://img.shields.io/badge/-madhusudanbabar-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/@MadhusudanBabar)](https://twitter.com/@MadhusudanBabar) 
 [![Medium Badge](https://img.shields.io/badge/-madhusudanbabar-000000?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@madhusudanbabar/)](https://medium.com/@madhusudanbabar/)
@@ -20,7 +20,7 @@
 
 ### Hey there👋, I'm Kryptöñ,
 
-Let me introduce myself :slightly_smiling_face: I'm an engineering student. as you all coding is my hobby and life style. I was fond of coding at the very beginning of my high school. Although my department is electronics and telecommunications, I'm more interested in computers 😜,I have great passion for UI/UX designing, I love to create beautiful user interfaces. I also have interest in cyber security, competitive programming, and embedded systems. I am currently working at a startup as software development lead but I mostly work as a web developer. Besides that I am a blogger, I love writing technical articles.
+Let me introduce myself :slightly_smiling_face: as you all coding is my hobby and life style. I was fond of coding at the very beginning of my high school. Although my department is Computer Management, I'm more interested in computers 😜,I have great passion for Data Analytics and UI/UX designing, I love to create beautiful user interfaces. I also have interest in cyber security, competitive programming, and embedded systems. I am currently working at a startup as software development lead but I mostly work as a Data Analyst and web developer. Besides that I am a blogger, I love writing technical articles.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -28,10 +28,10 @@ Let me introduce myself :slightly_smiling_face: I'm an engineering student. as y
 - 🔭 I’m currently working on my portfolio
 - 🌱 I’m currently learning nuxtJS.
 - 📫 How to reach me: 
-  - LinkedIn:-https://www.linkedin.com/in/madhusudan-babar/
-  - medium:- https://medium.com/@madhusudanbabar
-  - Instagram:- https://instagram.com/madhu_babar
-  - Portfolio:- https://madhusudan.live/
+  - LinkedIn:-https://github.com/palashranvir
+  - medium:- https://medium.com/@ranvir.co.de
+  - Instagram:- https://instagram.com/_i_ranvir
+    
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## skills
@@ -84,6 +84,3 @@ Let me introduce myself :slightly_smiling_face: I'm an engineering student. as y
 ![Flutter](https://img.shields.io/badge/-Flutter-007ACC?style=for-the-badge&logo=Flutter)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-![MadhusudanBabarss github stats](https://github-readme-stats.vercel.app/api?username=madhusudanbabar&show_icons=true&hide_border=true) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madhusudanbabar&layout=compact&hide_border=true)
