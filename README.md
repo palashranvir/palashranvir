@@ -6,7 +6,7 @@
 <!--
 **palashranvir/palashranvir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-[![Twitter Badge](https://img.shields.io/badge/-madhusudanbabar-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/@MadhusudanBabar)](https://twitter.com/@MadhusudanBabar) 
+[![Twitter Badge](https://img.shields.io/badge/-ranvircodz-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/@ranvircodz)](https://twitter.com/@ranvircodz) 
 [![Medium Badge](https://img.shields.io/badge/-https:/ranvir.co.de-000000?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@https:/ranvir.co.de/)](https://medium.com/@ranvir.co.de)
 [![Linkedin Badge](https://img.shields.io/badge/-madhusudanbabar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/madhusudan-babar/)](https://www.linkedin.com/in/madhusudan-babar/) 
 [![Gmail Badge](https://img.shields.io/badge/-madhusudanbabar@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:madhusudanbabar@gmail.com)](mailto:madhusudanbabar@gmail.com)
